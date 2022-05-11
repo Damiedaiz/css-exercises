@@ -1,0 +1,19 @@
+.odd{
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+#sec-element{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
